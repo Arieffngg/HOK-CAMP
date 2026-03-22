@@ -9,6 +9,10 @@ Arsitektur kecerdasan buatan berbasis **Retrieval-Augmented Generation (RAG)** t
 ![AI](https://img.shields.io/badge/AI-RAG_Intelligence-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Community_Driven-red?style=for-the-badge)
 
+![Stars](https://img.shields.io/github/stars/Arieffngg/HOK-CAMP?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/Arieffngg/HOK-CAMP?style=for-the-badge&color=blue)
+![Issues](https://img.shields.io/github/issues/Arieffngg/HOK-CAMP?style=for-the-badge&color=red)
+
 ---
 
 ## ⚠️ DISKLAIMER PENTING (LEGAL SHIELD)
